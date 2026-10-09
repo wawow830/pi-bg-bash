@@ -1,0 +1,8 @@
+{
+  "name": "pi-bg-bash",
+  "version": "0.1.0",
+  "description": "Run bash commands in the background from pi; get notified when they exit",
+  "keywords": ["pi-package"],
+  "type": "module",
+  "pi": { "extensions": ["./bg-bash.ts"] }
+}
